@@ -1,33 +1,33 @@
 body {
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 160, 37);
+    color: rgb(255, 160, 37); font-family: Georgia;
   }
   pre {
-    color: rgb(245, 255, 92);
+    color: rgb(245, 255, 92); font-family: Georgia;
 }
   h1 {
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 0, 170);
+    color: rgb(255, 0, 170); font-family: Georgia;
   }
   
   h2 {
     background-color: rgb(0, 0, 0);
-    color: rgb(0, 255, 115);
+    color: rgb(0, 255, 115); font-family: Georgia;
   }
   h3 {
     background-color: rgb(0, 0, 0);
-    color: rgb(244, 255, 92);
+    color: rgb(244, 255, 92); font-family: Georgia;
   }
   div {
     background-color: rgba(0, 0, 0, 0);(1,1,12)
-    color: rgb(244, 255, 92);
+    color: rgb(244, 255, 92); font-family: Georgia;
   }
   h4 {
     background-color: rgb(0, 0, 0);
-    color: rgb(30, 189, 252);
+    color: rgb(30, 189, 252); font-family: Georgia;
   }
   li {
-    color: rgb(30, 189, 252)
+    color: rgb(30, 189, 252) font-family: Georgia;
   }
   img {
     display:block;
